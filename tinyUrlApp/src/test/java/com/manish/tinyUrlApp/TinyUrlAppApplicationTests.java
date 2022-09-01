@@ -8,6 +8,7 @@ class TinyUrlAppApplicationTests {
 
 	@Test
 	void contextLoads() {
+		// check linting
 	}
 
 }
