@@ -7,7 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class TinyUrlAppApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TinyUrlAppApplication.class, args);
+		SpringApplication.
+			run(
+			TinyUrlAppApplication.class,
+			args);
 	}
 
 }
